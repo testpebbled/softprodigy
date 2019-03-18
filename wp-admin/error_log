@@ -1,0 +1,9 @@
+[25-Feb-2019 07:36:00 UTC] WordPress database error Unknown column 'sp_' in 'field list' for query SELECT sp_
+[05-Mar-2019 11:30:11 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/wowtesting/public_html/schakraborty/softprodigy/1/wp-content/themes/understrap-child/functions.php on line 45
+[05-Mar-2019 11:32:43 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/wowtesting/public_html/schakraborty/softprodigy/1/wp-content/themes/understrap-child/functions.php on line 45
+[07-Mar-2019 09:50:25 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/wowtesting/public_html/schakraborty/softprodigy/1/wp-content/plugins/recent-posts-widget-extended/includes/functions.php on line 203
+[07-Mar-2019 09:50:46 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/wowtesting/public_html/schakraborty/softprodigy/1/wp-content/plugins/recent-posts-widget-extended/includes/functions.php on line 203
+[07-Mar-2019 09:52:00 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/wowtesting/public_html/schakraborty/softprodigy/1/wp-content/plugins/recent-posts-widget-extended/includes/functions.php on line 203
+[07-Mar-2019 09:52:44 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/wowtesting/public_html/schakraborty/softprodigy/1/wp-content/plugins/recent-posts-widget-extended/includes/functions.php on line 203
+[18-Mar-2019 11:30:20 UTC] PHP Fatal error:  Cannot redeclare wp_trim_words() (previously declared in /home/wowtesting/public_html/schakraborty/softprodigy/1/wp-includes/formatting.php:3740) in /home/wowtesting/public_html/schakraborty/softprodigy/1/wp-content/themes/understrap-child/functions.php on line 154
+[18-Mar-2019 14:07:52 UTC] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0

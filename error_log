@@ -1,0 +1,34 @@
+[28-Feb-2019 09:38:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_image_title() in /home/wowtesting/public_html/schakraborty/softprodigy/1/wp-content/themes/understrap-child/page-templates/front-page.php:38
+Stack trace:
+#0 /home/wowtesting/public_html/schakraborty/softprodigy/1/wp-includes/template-loader.php(77): include()
+#1 /home/wowtesting/public_html/schakraborty/softprodigy/1/wp-blog-header.php(19): require_once('/home/wowtestin...')
+#2 /home/wowtesting/public_html/schakraborty/softprodigy/1/index.php(17): require('/home/wowtestin...')
+#3 {main}
+  thrown in /home/wowtesting/public_html/schakraborty/softprodigy/1/wp-content/themes/understrap-child/page-templates/front-page.php on line 38
+[28-Feb-2019 09:38:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_image_title() in /home/wowtesting/public_html/schakraborty/softprodigy/1/wp-content/themes/understrap-child/page-templates/front-page.php:38
+Stack trace:
+#0 /home/wowtesting/public_html/schakraborty/softprodigy/1/wp-includes/template-loader.php(77): include()
+#1 /home/wowtesting/public_html/schakraborty/softprodigy/1/wp-blog-header.php(19): require_once('/home/wowtestin...')
+#2 /home/wowtesting/public_html/schakraborty/softprodigy/1/index.php(17): require('/home/wowtestin...')
+#3 {main}
+  thrown in /home/wowtesting/public_html/schakraborty/softprodigy/1/wp-content/themes/understrap-child/page-templates/front-page.php on line 38
+[28-Feb-2019 09:43:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function setPostViews() in /home/wowtesting/public_html/schakraborty/softprodigy/1/wp-content/themes/understrap-child/page-templates/front-page.php:20
+Stack trace:
+#0 /home/wowtesting/public_html/schakraborty/softprodigy/1/wp-includes/template-loader.php(77): include()
+#1 /home/wowtesting/public_html/schakraborty/softprodigy/1/wp-blog-header.php(19): require_once('/home/wowtestin...')
+#2 /home/wowtesting/public_html/schakraborty/softprodigy/1/index.php(17): require('/home/wowtestin...')
+#3 {main}
+  thrown in /home/wowtesting/public_html/schakraborty/softprodigy/1/wp-content/themes/understrap-child/page-templates/front-page.php on line 20
+[02-Mar-2019 06:06:38 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 121651200 bytes) in /home/wowtesting/public_html/schakraborty/softprodigy/1/wp-content/themes/understrap-child/page-templates/front-page.php on line 104
+[02-Mar-2019 06:06:38 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 121635080 bytes) in /home/wowtesting/public_html/schakraborty/softprodigy/1/wp-content/plugins/smart-slider-3/nextend/wordpress/assetInjector.php on line 124
+[02-Mar-2019 06:06:38 UTC] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[02-Mar-2019 06:07:10 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 121651200 bytes) in /home/wowtesting/public_html/schakraborty/softprodigy/1/wp-content/themes/understrap-child/page-templates/front-page.php on line 104
+[02-Mar-2019 06:07:10 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 121635080 bytes) in /home/wowtesting/public_html/schakraborty/softprodigy/1/wp-content/plugins/smart-slider-3/nextend/wordpress/assetInjector.php on line 124
+[02-Mar-2019 06:07:10 UTC] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[05-Mar-2019 11:44:13 UTC] PHP Parse error:  syntax error, unexpected ''custom-footer-1 ); ?>' (T_ENCAPSED_AND_WHITESPACE) in /home/wowtesting/public_html/schakraborty/softprodigy/1/wp-content/themes/understrap-child/footer.php on line 23
+[05-Mar-2019 11:44:48 UTC] PHP Parse error:  syntax error, unexpected 'custom' (T_STRING), expecting ',' or ')' in /home/wowtesting/public_html/schakraborty/softprodigy/1/wp-content/themes/understrap-child/footer.php on line 23
+[05-Mar-2019 11:46:40 UTC] PHP Parse error:  syntax error, unexpected 'custom' (T_STRING), expecting ',' or ')' in /home/wowtesting/public_html/schakraborty/softprodigy/1/wp-content/themes/understrap-child/footer.php on line 23
+[07-Mar-2019 15:04:40 UTC] PHP Parse error:  syntax error, unexpected '327' (T_LNUMBER), expecting ',' or ')' in /home/wowtesting/public_html/schakraborty/softprodigy/1/wp-content/themes/understrap-child/page-templates/front-page.php on line 246
+[07-Mar-2019 15:06:16 UTC] PHP Parse error:  syntax error, unexpected '327' (T_LNUMBER), expecting ',' or ')' in /home/wowtesting/public_html/schakraborty/softprodigy/1/wp-content/themes/understrap-child/page-templates/front-page.php on line 246
+[07-Mar-2019 15:24:21 UTC] PHP Parse error:  syntax error, unexpected '328' (T_LNUMBER), expecting ',' or ')' in /home/wowtesting/public_html/schakraborty/softprodigy/1/wp-content/themes/understrap-child/page-templates/front-page.php on line 246
+[07-Mar-2019 15:24:40 UTC] PHP Parse error:  syntax error, unexpected 'slide_328' (T_STRING), expecting ',' or ')' in /home/wowtesting/public_html/schakraborty/softprodigy/1/wp-content/themes/understrap-child/page-templates/front-page.php on line 246
